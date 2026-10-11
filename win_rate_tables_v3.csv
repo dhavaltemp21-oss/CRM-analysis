@@ -1,0 +1,35 @@
+﻿Dimension,Value,Won,Lost,Stalled-Cold,In Progress,Total,True win rate % (Won/(Won+Lost+Stalled)),Old rate % (Won/(Won+Lost))
+Lead Source,Website/Inbound,13,63,412,46,534,2.7,17.1
+Lead Source,Outbound (all),3,8,157,17,185,1.8,27.3
+Lead Source,Networking Events,2,4,22,14,42,7.1,33.3
+Lead Source,Referral,2,4,4,0,10,20.0,33.3
+Lead Source,Google Ads,0,8,49,11,68,0.0,0.0
+Main Industry Category,Software & Technology,5,13,93,16,127,4.5,27.8
+Main Industry Category,Consumer Apps,2,11,83,5,101,2.1,15.4
+Main Industry Category,Insufficient Detail,2,10,82,6,100,2.1,16.7
+Main Industry Category,Education,2,6,56,7,71,3.1,25.0
+Main Industry Category,Professional Services,2,7,26,13,48,5.7,22.2
+Main Industry Category,Nonprofit/Government/Public Sector,1,3,29,2,35,3.0,25.0
+Main Industry Category,Retail & E-Commerce,1,4,26,2,33,3.2,20.0
+Main Industry Category,Financial Services,1,1,19,8,29,4.8,50.0
+Main Industry Category,Sports & Fitness,1,3,21,2,27,4.0,25.0
+Main Industry Category,Transportation & Logistics,1,3,18,2,24,4.5,25.0
+Main Industry Category,HR & Recruitment,1,3,11,2,17,6.7,25.0
+Main Industry Category,Real Estate,1,1,10,0,12,8.3,50.0
+Main Industry Category,Healthcare,0,6,32,4,42,0.0,0.0
+Main Industry Category,Construction & Trades,0,3,20,2,25,0.0,0.0
+Main Industry Category,Marketing & Creative Services,0,3,18,1,22,0.0,0.0
+Main Industry Category,Energy & Environment,0,0,21,1,22,0.0,
+Main Industry Category,Media & Entertainment,0,1,16,3,20,0.0,0.0
+Main Industry Category,Hospitality & Tourism,0,4,12,2,18,0.0,0.0
+Main Industry Category,Manufacturing & Industrial,0,0,12,2,14,0.0,
+Main Industry Category,Food & Beverage,0,0,10,3,13,0.0,
+Main Industry Category,Agriculture,0,2,6,3,11,0.0,0.0
+Main Industry Category,Gaming,0,1,10,0,11,0.0,0.0
+Main Industry Category,Events,0,1,6,1,8,0.0,0.0
+Main Industry Category,Legal,0,0,3,1,4,0.0,
+Main Industry Category,Telecommunications,0,1,2,0,3,0.0,0.0
+Main Industry Category,Automotive,0,0,2,0,2,0.0,
+Sector,Private Enterprise,19,82,599,83,783,2.7,18.8
+Sector,Nonprofit/NGO,1,3,22,2,28,3.8,25.0
+Sector,Public Sector,0,2,23,3,28,0.0,0.0
